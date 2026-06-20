@@ -1,0 +1,7 @@
+# Offline demo uses only the Python standard library.
+
+# Add real providers later, for example:
+# openai
+# anthropic
+# google-genai
+# requests
